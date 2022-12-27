@@ -1,4 +1,4 @@
-# Instructions  
+# Hello World: First Java Program  
 
 ### Description:
 Welcome to my first Java program here! This repository is to demonstrate a simple print out statement to write `Hello World!` to the console.
